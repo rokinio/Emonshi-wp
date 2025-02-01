@@ -6,12 +6,12 @@ Description: Official medical appointment booking system for doctors
 Version: 1.0.0
 Requires at least: 5.0
 Requires PHP: 7.4
+Tested up to: 6.4.3
 Author: hamyarsystem
 Author URI: https://emonshi.com
 License: GPL v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: emonshi-wp
-Domain Path: /languages
 GitHub Plugin URI: rokinio/Emonshi-wp
 GitHub Branch: main
 Update URI: false
