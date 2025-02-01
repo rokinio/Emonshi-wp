@@ -73,7 +73,7 @@ if (!defined('EMONSHI_UPDATE_SOURCE')) {
     }
 }
 
-// Disable GitHub updates if installed from WordPress.org
+// Disable GitHub updates if installed from WordPress.org hi
 if (EMONSHI_UPDATE_SOURCE === 'wordpress.org') {
     add_filter('github_updater_hide_settings', '__return_true');
 }
