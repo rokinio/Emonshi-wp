@@ -1,17 +1,17 @@
 <?php
 /*
-Plugin Name: Emonshi - Medical Booking System
-Plugin URI: https://emonshi.com
+Plugin Name: Emonshi Booking System
+Plugin URI: https://emonshi.net
 Description: Official medical appointment booking system for doctors
 Version: 1.0.0
 Requires at least: 5.0
 Requires PHP: 7.4
 Tested up to: 6.7.1
 Author: hamyarsystem
-Author URI: https://emonshi.com
+Author URI: https://emonshi.net
 License: GPL v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
-Text Domain: emonshi-wp
+Text Domain: emonshi-booking
 */
 
 // If this file is called directly, abort.

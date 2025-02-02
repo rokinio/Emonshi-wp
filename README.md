@@ -8,7 +8,7 @@ This plugin allows seamless integration of the Emonshi medical booking system in
 
 ## Installation
 
-1. Upload `emonshi-wp` to the `/wp-content/plugins/` directory
+1. Upload `emonshi-booking` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Use shortcode `[emonshi_booking]` in your pages
 
