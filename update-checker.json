@@ -1,0 +1,13 @@
+{
+    "name": "Emonshi - Medical Booking System",
+    "version": "1.0.0",
+    "download_url": "https://github.com/rokinio/Emonshi-wp/releases/download/v1.0.1/Emonshi-wp.zip",
+    "requires": "5.0",
+    "tested": "6.4.3",
+    "requires_php": "7.4",
+    "last_updated": "2024-02-01 10:00:00",
+    "sections": {
+        "description": "Official medical appointment booking system for doctors",
+        "changelog": "* Initial release"
+    }
+}
