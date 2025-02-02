@@ -2,7 +2,7 @@
 Contributors: hamyarsystem
 Tags: booking, medical, appointment, doctor
 Requires at least: 5.0
-Tested up to: 6.4.3
+Tested up to: 6.7.1
 Stable tag: 1.0.0
 Requires PHP: 7.4
 License: GPLv2 or later
