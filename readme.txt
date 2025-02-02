@@ -1,4 +1,4 @@
-=== Emonshi - Medical Booking System ===
+=== Emonshi Booking System ===
 Contributors: hamyarsystem
 Tags: booking, medical, appointment, doctor
 Requires at least: 5.0

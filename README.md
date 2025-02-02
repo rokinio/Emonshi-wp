@@ -1,4 +1,4 @@
-# Emonshi - Medical Booking System
+# Emonshi Booking System
 
 Official medical appointment booking system integration for WordPress.
 
